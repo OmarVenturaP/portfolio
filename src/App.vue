@@ -1,15 +1,18 @@
 <template>
   <NavBar/>
+  <HeroSection/>
 </template>
 
 <script>
 import NavBar from './components/NavigationBar.vue'
+import HeroSection from './components/HeroSection.vue'
 
 
 export default {
   name: 'App',
   components: {
-    NavBar
+    NavBar,
+    HeroSection,
   }
 }
 </script>
