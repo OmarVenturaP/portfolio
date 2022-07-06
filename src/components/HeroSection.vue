@@ -1,5 +1,5 @@
 <template>
-    <header class="masthead">
+    <header class="masthead" id="page-top">
         <div class="container">
             <div class="masthead-subheading">Software Developer Jr!</div>
             <div class="masthead-heading text-uppercase">Omar Ventura</div>
