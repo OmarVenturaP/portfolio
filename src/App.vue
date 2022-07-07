@@ -7,6 +7,7 @@
   <AboutMe/>
   <MyCertifications/>
   <ContactForm/>
+  <FooterPage/>
 </template>
 
 <script>
@@ -18,6 +19,7 @@ import VocationalTraining from './components/VocationalTraining.vue'
 import AboutMe from './components/AboutMe.vue'
 import MyCertifications from './components/MyCertifications.vue'
 import ContactForm from './components/ContactForm.vue'
+import FooterPage from './components/FooterPage.vue'
 
 
 export default {
@@ -31,6 +33,7 @@ export default {
     AboutMe,
     MyCertifications,
     ContactForm,
+    FooterPage,
 }
 }
 </script>
