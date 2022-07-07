@@ -6,6 +6,7 @@
   <VocationalTraining/>
   <AboutMe/>
   <MyCertifications/>
+  <ContactForm/>
 </template>
 
 <script>
@@ -16,6 +17,7 @@ import ProjectsPortfolio from './components/ProjectsPortfolio.vue'
 import VocationalTraining from './components/VocationalTraining.vue'
 import AboutMe from './components/AboutMe.vue'
 import MyCertifications from './components/MyCertifications.vue'
+import ContactForm from './components/ContactForm.vue'
 
 
 export default {
@@ -28,6 +30,7 @@ export default {
     VocationalTraining,
     AboutMe,
     MyCertifications,
+    ContactForm,
 }
 }
 </script>
