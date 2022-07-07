@@ -5,6 +5,7 @@
   <ProjectsPortfolio/>
   <VocationalTraining/>
   <AboutMe/>
+  <MyCertifications/>
 </template>
 
 <script>
@@ -14,6 +15,7 @@ import HardSkills from './components/HardSkills.vue'
 import ProjectsPortfolio from './components/ProjectsPortfolio.vue'
 import VocationalTraining from './components/VocationalTraining.vue'
 import AboutMe from './components/AboutMe.vue'
+import MyCertifications from './components/MyCertifications.vue'
 
 
 export default {
@@ -24,7 +26,8 @@ export default {
     HardSkills,
     ProjectsPortfolio,
     VocationalTraining,
-    AboutMe
+    AboutMe,
+    MyCertifications,
 }
 }
 </script>
