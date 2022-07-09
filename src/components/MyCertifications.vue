@@ -2,7 +2,7 @@
     <section class="page-section bg-dark" id="certified">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">CERTIFICACIONES</h2>
+                <h1 class="section-heading text-uppercase">LOGROS</h1>
             </div>
             <div class="row">
                 <div class="col-lg-4 text-center">

@@ -2,7 +2,7 @@
 <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Contactanos</h2>
+                    <h1 class="section-heading text-uppercase">Contact</h1>
                     <h3 class="section-subheading text-muted">Envianos un mensaje y te contactaremos lo más pronto posible.</h3>
                 </div>
                 <form id="contactForm" action="https://formsubmit.co/8c0a8baf5ab5e90d60e3300940c2f98b" method="POST">

@@ -2,7 +2,7 @@
     <section class="page-section bg-dark" id="team">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">sobre mi</h2>
+                <h1 class="section-heading text-uppercase">sobre mi</h1>
             </div>
             <div class="row">
                 <div class="col-lg-6">

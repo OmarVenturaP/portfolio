@@ -2,7 +2,7 @@
     <section class="page-section bg-dark" id="about">
         <div id="open" class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Formación</h2>
+                <h1 class="section-heading text-uppercase">EDU</h1>
                 <h3 class="section-subheading text-muted">La siguiente linea de tiempo marca el proceso de autoaprendizaje que he tenido en los pasados meses.</h3>
             </div>
             <ul class="timeline">
@@ -81,7 +81,7 @@
                     <div class="timeline-panel">
                     <div class="timeline-heading">
                         <h4>Diciembre 2021</h4>
-                        <h4 class="subheading">Inicia autoaprendizaje</h4>
+                        <h4 class="subheading">Inicia aprendizaje</h4>
                     </div>
                     <div class="timeline-body"><p class="text-muted">Comenzando desde lo basico en HTML y CSS, todo a través de Videos en linea y en Youtube absorviendo un poco de lo que sería un gran aprendizaje!</p></div>
                     </div>
