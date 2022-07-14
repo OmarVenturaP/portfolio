@@ -1,8 +1,8 @@
 <template>
-<section class="page-section bg-dark" id="services">
+<section class="page-section bg-dark" id="tech">
     <div class="container">
         <div class="text-center">
-            <h1 class="section-heading text-uppercase">tec</h1>
+            <h1 class="section-heading text-uppercase">skills</h1>
             <h3 class="section-subheading text-muted">A lo largo de mi autoaprendizaje he trabajado con algunas de estas tecnologías:</h3>
         </div>
         <div class="row text-center">

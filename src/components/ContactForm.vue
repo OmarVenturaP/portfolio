@@ -32,7 +32,7 @@
                     <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase" id="submitButton" type="submit">Enviar mensaje</button></div>
                     <!-- Config add -->
                     <input type="hidden" name="_autoresponse" value="Gracias por contactarnos, nos comunicaremos contigo a la brevedad">
-                    <input type="hidden" name="_next" value="http://127.0.0.7:5500/">
+                    <input type="hidden" name="_next" value="http://omarventura.ml/?i=1/">
                     <input type="hidden" name="_captcha" value="false">
             </form>
             </div>

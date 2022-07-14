@@ -1,8 +1,8 @@
 <template>
-    <section class="page-section bg-dark" id="about">
+    <section class="page-section bg-dark" id="training">
         <div id="open" class="container">
             <div class="text-center">
-                <h1 class="section-heading text-uppercase">EDU</h1>
+                <h1 class="section-heading text-uppercase">CURSOS</h1>
                 <h3 class="section-subheading text-muted">La siguiente linea de tiempo marca el proceso de autoaprendizaje que he tenido en los pasados meses.</h3>
             </div>
             <ul class="timeline">
@@ -17,7 +17,7 @@
                     </div>
                     <div class="timeline-body">
                         <p id="azure" class="text-muted">
-                            Bootcamp de España (FrontEnd - Backend) Enfocado a lo que el mercado laboral neceisa. Dando las herrmaientas necesarias para poder aprender tecnologías FullStack.
+                            Bootcamp de España (FrontEnd - Backend) Enfocado a lo que el mercado laboral necesita. Dando las herrmaientas necesarias para poder aprender tecnologías FullStack.
                         </p>
                     </div>
                     </div>
@@ -35,7 +35,7 @@
                     </div>
                     <div id="one" class="timeline-body">
                         <p class="text-muted">
-                            Ciclo enfocado en la nube de Microsoft Azure, durante el cual se trataron aspectos relacionados a la Nube, IoT, IaaS, PaaS, SaaS, Bases de Datos y Seguridad en la Nube. Al final del mismo tuvimos acceso a la certificación AZ-900 de Azure.
+                            Ciclo enfocado en la nube de Microsoft Azure, durante el cual se trataron aspectos relacionados a la Nube, IoT, IaaS, PaaS, SaaS, Bases de Datos y Seguridad en la Nube. Al final del mismo tuvimos acceso a la certificación AZ-900 de Microsoft Azure.
                         </p>
                     </div>
                     </div>
@@ -53,7 +53,7 @@
                     </div>
                     <div class="timeline-body">
                         <p id="launchx" class="text-muted">
-                            Bootcamp de parte de Oracle, relacionado desde el FrontEnd hasta Backend, ampliando la perspectiva del uso de la Nube como apoyo para el desarrollo, además de centrarse en el uso de Metodologías Ágile.
+                            Bootcamp de parte de Oracle, relacionado desde el FrontEnd hasta Backend, ampliando la perspectiva del uso de la Nube como apoyo para el desarrollo, además de centrarse en el uso de Metodologías Ágiles.
                         </p>
                     </div>
                     </div>
@@ -67,7 +67,7 @@
                     </div>
                     <div class="timeline-body">
                         <p id="learn" class="text-muted">
-                            Bootcamp de la iniciativa de parte de Microsoft, bajo el programa LaunchX de Innovacción Virtual, donde se analizaron tecnologías desde el Front hasta Back, generando talleres como el de Visual Thinking y La Empresa Ágile.
+                            Bootcamp de la iniciativa de parte de Microsoft, bajo el programa LaunchX de Innovacción Virtual, donde se analizaron tecnologías desde el Frontend hasta Backend, generando talleres como el de Visual Thinking y La Empresa Ágile.
                         </p>
                     </div>
                     </div>
@@ -83,7 +83,7 @@
                         <h4>Diciembre 2021</h4>
                         <h4 class="subheading">Inicia aprendizaje</h4>
                     </div>
-                    <div class="timeline-body"><p class="text-muted">Comenzando desde lo basico en HTML y CSS, todo a través de Videos en linea y en Youtube absorviendo un poco de lo que sería un gran aprendizaje!</p></div>
+                    <div class="timeline-body"><p class="text-muted">Comenzando desde lo basico en HTML y CSS, todo a través de videos en linea y en Youtube absorviendo un poco de lo que sería un gran aprendizaje!</p></div>
                     </div>
                 </li>
                 <li class="timeline-inverted">

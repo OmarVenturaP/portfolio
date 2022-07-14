@@ -1,5 +1,5 @@
 <template>
-    <section class="page-section bg-dark" id="team">
+    <section class="page-section bg-dark" id="about">
         <div class="container">
             <div class="text-center">
                 <h1 class="section-heading text-uppercase">sobre mi</h1>

@@ -8,10 +8,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="#services">Tecnologías</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#tech">Tecnologías</a></li>
                     <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#about">Formacion</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#team">sobre mi</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#training">Formacion</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">sobre mi</a></li>
                     <li class="nav-item"><a class="nav-link" href="#certified">Certificaciones</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
                 </ul>
