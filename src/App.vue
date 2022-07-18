@@ -13,6 +13,7 @@
   <PortfolioModal3/>
   <PortfolioModal4/>
   <PortfolioModal5/>
+  <PortfolioModal6/>
   <SoftSkills/>
 </template>
 
@@ -31,6 +32,7 @@ import PortfolioModal2 from './components/PortfolioModal/PortfolioModal2.vue'
 import PortfolioModal3 from './components/PortfolioModal/PortfolioModal3.vue'
 import PortfolioModal4 from './components/PortfolioModal/PortfolioModal4.vue'
 import PortfolioModal5 from './components/PortfolioModal/PortfolioModal5.vue'
+import PortfolioModal6 from './components/PortfolioModal/PortfolioModal6.vue'
 import SoftSkills from './components/SoftSkills.vue'
 
 export default {
@@ -50,8 +52,9 @@ export default {
     PortfolioModal3,
     PortfolioModal4,
     PortfolioModal5,
+    PortfolioModal6,
     SoftSkills,
 }
 }
 </script>
-<style src="./assets/css/styles.css"></style>
+<style src="./assets/css/styles.css"> </style>

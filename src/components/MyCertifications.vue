@@ -12,7 +12,7 @@
                         </div>
                         <div class="card-body">
                             <h5 class="card-title mb-4">AZ-900</h5>
-                            <a href="../assets/azure-certified-omar.pdf" class="btn btn-dark btn-primary" target="_blank">Certificación</a><br><br>
+                            <a href="https://drive.google.com/file/d/1br8_nIQMQyVhRSSgf9AOWqdQZDsqTWCW/view?usp=sharing" class="btn btn-dark btn-primary" target="_blank">Certificación</a><br><br>
                             <a href="https://www.credly.com/badges/07ccaf21-22b2-4e5d-9619-103d486d9ed7?source=linked_in_profile" class="btn btn-dark btn-primary" target="_blank">Verificar</a>
                         </div>
                     </div>

@@ -14,7 +14,7 @@
                         <a class="btn btn-dark btn-social mx-2" href="https://wa.link/r5vy32" aria-label="Omar Ventura Whatsapp" target="_blank"><i class="fab fa-whatsapp"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/omarventurap/" aria-label="Omar Ventura LinkedIn Profile" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="mailto:reparaciones.tonala@hotmail..com?Subject=Información%sobre" aria-label="Omar Ventura mail Profile" target="_blank"><i class="fab fa-solid fa-envelope"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="../assets/cv-omarventura.pdf" aria-label="Omar Ventura CV" target="_blank"><i class="fab fa-solid fa-file-pdf"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://drive.google.com/file/d/1aDCQ_DA3aZ6xMD36L8C4gBqfS0fRwXl5/view?usp=sharing" aria-label="Omar Ventura CV" target="_blank"><i class="fab fa-solid fa-file-pdf"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 text-center"><br>
@@ -38,7 +38,7 @@
             <div class="row">
                 <div class="col-lg-9 mx-auto text-center">
                     <p class="large text-muted">
-                        Profesional con una excelente capacidad de organización y un buen conocimiento de Tecnologías y Servicios Generales, que disfruta trabajando en entornos dinámicos y en contacto con el cliente. Capaz de ofrecer una sólida resolución de posibles incidencias. Con competencias tecnológicas e interpersonales.
+                        Profesional autodidacta, con una excelente capacidad de organización y un buen conocimiento de Tecnologías y Servicios Generales, que disfruta trabajando en entornos dinámicos y en contacto con el cliente. Capaz de ofrecer una sólida resolución de posibles incidencias. Con competencias tecnológicas e interpersonales.
                     </p>
                 </div>
             </div>

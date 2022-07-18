@@ -3,7 +3,7 @@
         <div class="container">
             <div class="text-center">
                 <h1 class="section-heading text-uppercase">Portfolio</h1>
-                <h3 class="section-subheading text-muted">Algunos proyectos que he realizado.</h3>
+                <h3 class="section-subheading text-muted">Algunos proyectos realizados.</h3>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6 mb-4">
@@ -81,20 +81,20 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
                         <!-- Portfolio item 6-->
-                        <!-- <div class="portfolio-item cb1 card">
+                        <div class="portfolio-item cb1 card">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
                                 <div class="portfolio-hover bg-dark">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
+                                <img class="img-fluid" src="../assets/img/portfolio/7.png" width="350px" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                                <div class="portfolio-caption-heading">Portfolio</div>
+                                <div class="portfolio-caption-subheading text-muted">VueJs App</div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
             </div>
         </div>
